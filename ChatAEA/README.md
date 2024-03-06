@@ -1,4 +1,4 @@
-# Chat en Tiempo Real con Sockets en 
+# Chat en Tiempo Real con Sockets en Java
 ---
 Este proyecto trata de un aplicación de chat en timepo real utilizando la programación de sockets en java.
 Está aplicación permitirá a los usuarios conectarse a un servidor, unirse a diferentes salas de chat , enviar y recibir mensajes, y explorar las salas de chat disponibles.
