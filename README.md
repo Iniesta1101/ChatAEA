@@ -42,4 +42,4 @@ Este proyecto está compuesto de las siguientes clases:
     nombre de usuario, la dirección IP y el puerto, métodos getter y setter para las propiedades, y un método para enviar un mensaje al usuario. 
 
 ---
-URL: 
+URL: https://github.com/Iniesta1101/ChatAEA/tree/main
